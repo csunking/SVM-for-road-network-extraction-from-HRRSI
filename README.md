@@ -1,10 +1,10 @@
 # SVM-for-road-network-extraction-from-HRRSI
 SVM for road network extraction from high resolation RS image
 
- this is the version 1.0 
- Originaled by weng, 2015-2-5 1331, Nanjing, China.
- E-mail: arxive@126.com
- The simple purpose is using SVM menthold and realted object based classfication to extract road network form high resolution remote sensing image. My outline are as follows.
+This is the version 1.0 
+Originaled by weng, 2015-2-5 1331, Nanjing, China.
+E-mail: arxive@126.com
+The simple purpose is using SVM menthold and realted object based classfication to extract road network form high resolution remote sensing image. My outline are as follows.
 
 1. Get the seeds of classify centers from high resolution image like road
 2. get the tiny areas of image like object based homogeneous areas 
